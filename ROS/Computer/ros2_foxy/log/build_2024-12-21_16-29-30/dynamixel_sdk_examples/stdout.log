@@ -1,0 +1,30 @@
+[35m[1mScanning dependencies of target draw_digit[0m
+[ 25%] Built target read_write_node
+[ 50%] Built target motor_controller
+[ 75%] Built target digit_publisher
+[ 87%] [32mBuilding CXX object CMakeFiles/draw_digit.dir/src/draw_eight.cpp.o[0m
+[100%] [32m[1mLinking CXX executable draw_digit[0m
+[100%] Built target draw_digit
+-- Install configuration: ""
+-- Up-to-date: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/lib/dynamixel_sdk_examples/read_write_node
+-- Up-to-date: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/lib/dynamixel_sdk_examples/motor_controller
+-- Installing: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/lib/dynamixel_sdk_examples/draw_digit
+-- Set runtime path of "/home/alexander/ros2_foxy/install/dynamixel_sdk_examples/lib/dynamixel_sdk_examples/draw_digit" to ""
+-- Up-to-date: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/lib/dynamixel_sdk_examples/digit_publisher
+-- Up-to-date: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/include/
+-- Up-to-date: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/include//read_write_node.hpp
+-- Up-to-date: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/ament_index/resource_index/package_run_dependencies/dynamixel_sdk_examples
+-- Up-to-date: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/ament_index/resource_index/parent_prefix_path/dynamixel_sdk_examples
+-- Up-to-date: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/environment/ament_prefix_path.sh
+-- Up-to-date: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/environment/path.sh
+-- Up-to-date: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/environment/path.dsv
+-- Up-to-date: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/local_setup.bash
+-- Up-to-date: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/local_setup.sh
+-- Up-to-date: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/local_setup.zsh
+-- Up-to-date: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/local_setup.dsv
+-- Installing: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/package.dsv
+-- Up-to-date: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/ament_index/resource_index/packages/dynamixel_sdk_examples
+-- Up-to-date: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/cmake/dynamixel_sdk_examplesConfig.cmake
+-- Up-to-date: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/cmake/dynamixel_sdk_examplesConfig-version.cmake
+-- Up-to-date: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/package.xml

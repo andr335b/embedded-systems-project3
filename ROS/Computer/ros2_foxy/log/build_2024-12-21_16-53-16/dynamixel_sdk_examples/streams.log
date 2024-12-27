@@ -1,0 +1,15 @@
+[0.016s] Invoking command in '/home/alexander/ros2_foxy/build/dynamixel_sdk_examples': CMAKE_PREFIX_PATH=/home/alexander/ros2_foxy/install/dynamixel_sdk_custom_interfaces:/home/alexander/ros2_foxy/install/dynamixel_sdk:/home/alexander/ros2_foxy/install/dynamixel_sdk_examples:/opt/ros/foxy /usr/bin/cmake --build /home/alexander/ros2_foxy/build/dynamixel_sdk_examples -- -j16 -l16
+[0.059s] [35m[1mScanning dependencies of target cross_drawer[0m
+[0.074s] [ 20%] Built target digit_publisher
+[0.074s] [ 40%] Built target motor_controller
+[0.076s] [ 60%] Built target read_write_node
+[0.077s] [ 80%] Built target draw_digit
+[0.080s] [ 90%] [32mBuilding CXX object CMakeFiles/cross_drawer.dir/src/cross_drawer.cpp.o[0m
+[0.146s] [01m[K/home/alexander/ros2_foxy/src/DynamixelSDK/dynamixel_sdk_examples/src/cross_drawer.cpp:7:10:[m[K [01;31m[Kfatal error: [m[Kdynamixel_sdk_custom_interfaces/msg/set_position.hpp: No such file or directory
+[0.146s]     7 | #include [01;31m[K"dynamixel_sdk_custom_interfaces/msg/set_position.hpp"[m[K  // For setting motor positions
+[0.146s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[0.146s] compilation terminated.
+[0.148s] make[2]: *** [CMakeFiles/cross_drawer.dir/build.make:63: CMakeFiles/cross_drawer.dir/src/cross_drawer.cpp.o] Error 1
+[0.148s] make[1]: *** [CMakeFiles/Makefile2:221: CMakeFiles/cross_drawer.dir/all] Error 2
+[0.148s] make: *** [Makefile:141: all] Error 2
+[0.151s] Invoked command in '/home/alexander/ros2_foxy/build/dynamixel_sdk_examples' returned '2': CMAKE_PREFIX_PATH=/home/alexander/ros2_foxy/install/dynamixel_sdk_custom_interfaces:/home/alexander/ros2_foxy/install/dynamixel_sdk:/home/alexander/ros2_foxy/install/dynamixel_sdk_examples:/opt/ros/foxy /usr/bin/cmake --build /home/alexander/ros2_foxy/build/dynamixel_sdk_examples -- -j16 -l16

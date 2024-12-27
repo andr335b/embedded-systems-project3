@@ -1,0 +1,33 @@
+[0.015s] Invoking command in '/home/alexander/ros2_foxy/build/dynamixel_sdk_examples': CMAKE_PREFIX_PATH=/home/alexander/ros2_foxy/install/dynamixel_sdk_custom_interfaces:/home/alexander/ros2_foxy/install/dynamixel_sdk:/home/alexander/ros2_foxy/install/dynamixel_sdk_examples:/opt/ros/foxy /usr/bin/cmake --build /home/alexander/ros2_foxy/build/dynamixel_sdk_examples -- -j16 -l16
+[0.052s] [ 20%] Built target draw_digit
+[0.055s] [ 40%] Built target cross_drawer
+[0.058s] [ 60%] Built target motor_controller
+[0.059s] [ 80%] Built target digit_publisher
+[0.059s] [100%] Built target read_write_node
+[0.070s] Invoked command in '/home/alexander/ros2_foxy/build/dynamixel_sdk_examples' returned '0': CMAKE_PREFIX_PATH=/home/alexander/ros2_foxy/install/dynamixel_sdk_custom_interfaces:/home/alexander/ros2_foxy/install/dynamixel_sdk:/home/alexander/ros2_foxy/install/dynamixel_sdk_examples:/opt/ros/foxy /usr/bin/cmake --build /home/alexander/ros2_foxy/build/dynamixel_sdk_examples -- -j16 -l16
+[0.072s] Invoking command in '/home/alexander/ros2_foxy/build/dynamixel_sdk_examples': CMAKE_PREFIX_PATH=/home/alexander/ros2_foxy/install/dynamixel_sdk_custom_interfaces:/home/alexander/ros2_foxy/install/dynamixel_sdk:/home/alexander/ros2_foxy/install/dynamixel_sdk_examples:/opt/ros/foxy /usr/bin/cmake --install /home/alexander/ros2_foxy/build/dynamixel_sdk_examples
+[0.076s] -- Install configuration: ""
+[0.076s] -- Execute custom install script
+[0.076s] -- Up-to-date symlink: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/lib/dynamixel_sdk_examples/scripts/pythonpublisher.py
+[0.077s] -- Up-to-date symlink: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/lib/dynamixel_sdk_examples/read_write_node
+[0.077s] -- Up-to-date symlink: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/lib/dynamixel_sdk_examples/motor_controller
+[0.077s] -- Up-to-date symlink: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/lib/dynamixel_sdk_examples/draw_digit
+[0.077s] -- Up-to-date symlink: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/lib/dynamixel_sdk_examples/digit_publisher
+[0.077s] -- Up-to-date symlink: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/lib/dynamixel_sdk_examples/cross_drawer
+[0.077s] -- Up-to-date symlink: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/include//read_write_node.hpp
+[0.077s] -- Up-to-date symlink: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/ament_index/resource_index/package_run_dependencies/dynamixel_sdk_examples
+[0.078s] -- Up-to-date symlink: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/ament_index/resource_index/parent_prefix_path/dynamixel_sdk_examples
+[0.078s] -- Up-to-date symlink: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/environment/ament_prefix_path.sh
+[0.078s] -- Up-to-date symlink: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/environment/ament_prefix_path.dsv
+[0.078s] -- Up-to-date symlink: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/environment/path.sh
+[0.078s] -- Up-to-date symlink: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/environment/path.dsv
+[0.078s] -- Up-to-date symlink: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/local_setup.bash
+[0.079s] -- Up-to-date symlink: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/local_setup.sh
+[0.079s] -- Up-to-date symlink: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/local_setup.zsh
+[0.079s] -- Up-to-date symlink: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/local_setup.dsv
+[0.079s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/package.dsv
+[0.091s] -- Up-to-date symlink: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/ament_index/resource_index/packages/dynamixel_sdk_examples
+[0.092s] -- Up-to-date symlink: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/cmake/dynamixel_sdk_examplesConfig.cmake
+[0.092s] -- Up-to-date symlink: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/cmake/dynamixel_sdk_examplesConfig-version.cmake
+[0.092s] -- Up-to-date symlink: /home/alexander/ros2_foxy/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/package.xml
+[0.096s] Invoked command in '/home/alexander/ros2_foxy/build/dynamixel_sdk_examples' returned '0': CMAKE_PREFIX_PATH=/home/alexander/ros2_foxy/install/dynamixel_sdk_custom_interfaces:/home/alexander/ros2_foxy/install/dynamixel_sdk:/home/alexander/ros2_foxy/install/dynamixel_sdk_examples:/opt/ros/foxy /usr/bin/cmake --install /home/alexander/ros2_foxy/build/dynamixel_sdk_examples

@@ -1,0 +1,6 @@
+[35m[1mScanning dependencies of target cross_drawer[0m
+[ 20%] Built target digit_publisher
+[ 40%] Built target motor_controller
+[ 60%] Built target read_write_node
+[ 80%] Built target draw_digit
+[ 90%] [32mBuilding CXX object CMakeFiles/cross_drawer.dir/src/cross_drawer.cpp.o[0m

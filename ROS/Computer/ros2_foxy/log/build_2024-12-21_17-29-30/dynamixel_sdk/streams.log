@@ -1,0 +1,48 @@
+[0.012s] Invoking command in '/home/alexander/ros2_foxy/build/dynamixel_sdk': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/alexander/ros2_foxy/src/DynamixelSDK/dynamixel_sdk -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/alexander/ros2_foxy/install/dynamixel_sdk
+[0.023s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.040s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.176s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.255s] -- Configuring done
+[0.259s] -- Generating done
+[0.260s] -- Build files have been written to: /home/alexander/ros2_foxy/build/dynamixel_sdk
+[0.262s] Invoked command in '/home/alexander/ros2_foxy/build/dynamixel_sdk' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/alexander/ros2_foxy/src/DynamixelSDK/dynamixel_sdk -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/alexander/ros2_foxy/install/dynamixel_sdk
+[0.266s] Invoking command in '/home/alexander/ros2_foxy/build/dynamixel_sdk': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/alexander/ros2_foxy/build/dynamixel_sdk -- -j16 -l16
+[0.318s] [100%] Built target dynamixel_sdk
+[0.332s] Invoked command in '/home/alexander/ros2_foxy/build/dynamixel_sdk' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/alexander/ros2_foxy/build/dynamixel_sdk -- -j16 -l16
+[0.348s] Invoking command in '/home/alexander/ros2_foxy/build/dynamixel_sdk': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/alexander/ros2_foxy/build/dynamixel_sdk
+[0.352s] -- Install configuration: ""
+[0.352s] -- Execute custom install script
+[0.352s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/include//dynamixel_sdk/dynamixel_sdk.h
+[0.363s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/include//dynamixel_sdk/group_bulk_read.h
+[0.369s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/include//dynamixel_sdk/group_bulk_write.h
+[0.375s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/include//dynamixel_sdk/group_sync_read.h
+[0.380s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/include//dynamixel_sdk/group_sync_write.h
+[0.386s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/include//dynamixel_sdk/packet_handler.h
+[0.391s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/include//dynamixel_sdk/port_handler.h
+[0.399s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/include//dynamixel_sdk/port_handler_arduino.h
+[0.405s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/include//dynamixel_sdk/port_handler_linux.h
+[0.411s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/include//dynamixel_sdk/port_handler_mac.h
+[0.416s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/include//dynamixel_sdk/port_handler_windows.h
+[0.422s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/include//dynamixel_sdk/protocol1_packet_handler.h
+[0.432s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/include//dynamixel_sdk/protocol2_packet_handler.h
+[0.443s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/lib/libdynamixel_sdk.so
+[0.454s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/share/dynamixel_sdk/environment/library_path.sh
+[0.463s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/share/dynamixel_sdk/environment/library_path.dsv
+[0.474s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/share/ament_index/resource_index/package_run_dependencies/dynamixel_sdk
+[0.484s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/share/ament_index/resource_index/parent_prefix_path/dynamixel_sdk
+[0.494s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/share/dynamixel_sdk/environment/ament_prefix_path.sh
+[0.499s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/share/dynamixel_sdk/environment/ament_prefix_path.dsv
+[0.505s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/share/dynamixel_sdk/environment/path.sh
+[0.511s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/share/dynamixel_sdk/environment/path.dsv
+[0.516s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/share/dynamixel_sdk/local_setup.bash
+[0.522s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/share/dynamixel_sdk/local_setup.sh
+[0.528s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/share/dynamixel_sdk/local_setup.zsh
+[0.533s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/share/dynamixel_sdk/local_setup.dsv
+[0.538s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/share/dynamixel_sdk/package.dsv
+[0.547s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/share/ament_index/resource_index/packages/dynamixel_sdk
+[0.553s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/share/dynamixel_sdk/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.561s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/share/dynamixel_sdk/cmake/ament_cmake_export_libraries-extras.cmake
+[0.566s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/share/dynamixel_sdk/cmake/dynamixel_sdkConfig.cmake
+[0.576s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/share/dynamixel_sdk/cmake/dynamixel_sdkConfig-version.cmake
+[0.582s] -- Symlinking: /home/alexander/ros2_foxy/install/dynamixel_sdk/share/dynamixel_sdk/package.xml
+[0.594s] Invoked command in '/home/alexander/ros2_foxy/build/dynamixel_sdk' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/alexander/ros2_foxy/build/dynamixel_sdk
