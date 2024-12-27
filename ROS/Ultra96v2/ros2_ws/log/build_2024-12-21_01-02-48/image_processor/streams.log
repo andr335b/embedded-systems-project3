@@ -1,0 +1,26 @@
+[0.153s] Invoking command in '/home/mp4d/ros2_ws/build/image_processor': /usr/bin/cmake --build /home/mp4d/ros2_ws/build/image_processor -- -j4 -l4
+[1.940s] [35m[1mScanning dependencies of target image_processor_node[0m
+[2.299s] [ 50%] [32mBuilding CXX object CMakeFiles/image_processor_node.dir/src/image_processor_node.cpp.o[0m
+[86.879s] [100%] [32m[1mLinking CXX executable image_processor_node[0m
+[98.956s] [100%] Built target image_processor_node
+[99.079s] Invoked command in '/home/mp4d/ros2_ws/build/image_processor' returned '0': /usr/bin/cmake --build /home/mp4d/ros2_ws/build/image_processor -- -j4 -l4
+[99.668s] Invoking command in '/home/mp4d/ros2_ws/build/image_processor': /usr/bin/cmake --install /home/mp4d/ros2_ws/build/image_processor
+[99.786s] -- Install configuration: ""
+[99.805s] -- Installing: /home/mp4d/ros2_ws/install/image_processor/lib/image_processor/image_processor_node
+[99.822s] -- Set runtime path of "/home/mp4d/ros2_ws/install/image_processor/lib/image_processor/image_processor_node" to ""
+[99.827s] -- Up-to-date: /home/mp4d/ros2_ws/install/image_processor/share/ament_index/resource_index/package_run_dependencies/image_processor
+[99.838s] -- Up-to-date: /home/mp4d/ros2_ws/install/image_processor/share/ament_index/resource_index/parent_prefix_path/image_processor
+[99.841s] -- Up-to-date: /home/mp4d/ros2_ws/install/image_processor/share/image_processor/environment/ament_prefix_path.sh
+[99.843s] -- Up-to-date: /home/mp4d/ros2_ws/install/image_processor/share/image_processor/environment/ament_prefix_path.dsv
+[99.844s] -- Up-to-date: /home/mp4d/ros2_ws/install/image_processor/share/image_processor/environment/path.sh
+[99.845s] -- Up-to-date: /home/mp4d/ros2_ws/install/image_processor/share/image_processor/environment/path.dsv
+[99.868s] -- Up-to-date: /home/mp4d/ros2_ws/install/image_processor/share/image_processor/local_setup.bash
+[99.872s] -- Up-to-date: /home/mp4d/ros2_ws/install/image_processor/share/image_processor/local_setup.sh
+[99.874s] -- Up-to-date: /home/mp4d/ros2_ws/install/image_processor/share/image_processor/local_setup.zsh
+[99.875s] -- Up-to-date: /home/mp4d/ros2_ws/install/image_processor/share/image_processor/local_setup.dsv
+[99.877s] -- Installing: /home/mp4d/ros2_ws/install/image_processor/share/image_processor/package.dsv
+[99.884s] -- Up-to-date: /home/mp4d/ros2_ws/install/image_processor/share/ament_index/resource_index/packages/image_processor
+[99.886s] -- Up-to-date: /home/mp4d/ros2_ws/install/image_processor/share/image_processor/cmake/image_processorConfig.cmake
+[99.888s] -- Up-to-date: /home/mp4d/ros2_ws/install/image_processor/share/image_processor/cmake/image_processorConfig-version.cmake
+[99.900s] -- Up-to-date: /home/mp4d/ros2_ws/install/image_processor/share/image_processor/package.xml
+[99.908s] Invoked command in '/home/mp4d/ros2_ws/build/image_processor' returned '0': /usr/bin/cmake --install /home/mp4d/ros2_ws/build/image_processor

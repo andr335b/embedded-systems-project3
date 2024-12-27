@@ -1,0 +1,22 @@
+[0.227s] Invoking command in '/home/mp4d/ros2_ws/build/project_ros2_pkg': CMAKE_PREFIX_PATH=/home/mp4d/ros2_ws/install/image_processor:/opt/ros/foxy /usr/bin/cmake --build /home/mp4d/ros2_ws/build/project_ros2_pkg -- -j4 -l4
+[2.164s] [100%] Built target image_subscriber
+[2.323s] Invoked command in '/home/mp4d/ros2_ws/build/project_ros2_pkg' returned '0': CMAKE_PREFIX_PATH=/home/mp4d/ros2_ws/install/image_processor:/opt/ros/foxy /usr/bin/cmake --build /home/mp4d/ros2_ws/build/project_ros2_pkg -- -j4 -l4
+[2.694s] Invoking command in '/home/mp4d/ros2_ws/build/project_ros2_pkg': CMAKE_PREFIX_PATH=/home/mp4d/ros2_ws/install/image_processor:/opt/ros/foxy /usr/bin/cmake --install /home/mp4d/ros2_ws/build/project_ros2_pkg
+[2.782s] -- Install configuration: ""
+[2.784s] -- Up-to-date: /home/mp4d/ros2_ws/install/project_ros2_pkg/lib/project_ros2_pkg/image_subscriber
+[2.789s] -- Up-to-date: /home/mp4d/ros2_ws/install/project_ros2_pkg/share/ament_index/resource_index/package_run_dependencies/project_ros2_pkg
+[2.790s] -- Up-to-date: /home/mp4d/ros2_ws/install/project_ros2_pkg/share/ament_index/resource_index/parent_prefix_path/project_ros2_pkg
+[2.791s] -- Up-to-date: /home/mp4d/ros2_ws/install/project_ros2_pkg/share/project_ros2_pkg/environment/ament_prefix_path.sh
+[2.792s] -- Up-to-date: /home/mp4d/ros2_ws/install/project_ros2_pkg/share/project_ros2_pkg/environment/ament_prefix_path.dsv
+[2.793s] -- Up-to-date: /home/mp4d/ros2_ws/install/project_ros2_pkg/share/project_ros2_pkg/environment/path.sh
+[2.803s] -- Up-to-date: /home/mp4d/ros2_ws/install/project_ros2_pkg/share/project_ros2_pkg/environment/path.dsv
+[2.804s] -- Up-to-date: /home/mp4d/ros2_ws/install/project_ros2_pkg/share/project_ros2_pkg/local_setup.bash
+[2.807s] -- Up-to-date: /home/mp4d/ros2_ws/install/project_ros2_pkg/share/project_ros2_pkg/local_setup.sh
+[2.809s] -- Up-to-date: /home/mp4d/ros2_ws/install/project_ros2_pkg/share/project_ros2_pkg/local_setup.zsh
+[2.809s] -- Up-to-date: /home/mp4d/ros2_ws/install/project_ros2_pkg/share/project_ros2_pkg/local_setup.dsv
+[2.810s] -- Installing: /home/mp4d/ros2_ws/install/project_ros2_pkg/share/project_ros2_pkg/package.dsv
+[2.810s] -- Up-to-date: /home/mp4d/ros2_ws/install/project_ros2_pkg/share/ament_index/resource_index/packages/project_ros2_pkg
+[2.811s] -- Up-to-date: /home/mp4d/ros2_ws/install/project_ros2_pkg/share/project_ros2_pkg/cmake/project_ros2_pkgConfig.cmake
+[2.820s] -- Up-to-date: /home/mp4d/ros2_ws/install/project_ros2_pkg/share/project_ros2_pkg/cmake/project_ros2_pkgConfig-version.cmake
+[2.822s] -- Up-to-date: /home/mp4d/ros2_ws/install/project_ros2_pkg/share/project_ros2_pkg/package.xml
+[2.825s] Invoked command in '/home/mp4d/ros2_ws/build/project_ros2_pkg' returned '0': CMAKE_PREFIX_PATH=/home/mp4d/ros2_ws/install/image_processor:/opt/ros/foxy /usr/bin/cmake --install /home/mp4d/ros2_ws/build/project_ros2_pkg

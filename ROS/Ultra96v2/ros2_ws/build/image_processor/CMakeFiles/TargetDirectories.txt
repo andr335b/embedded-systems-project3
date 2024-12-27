@@ -1,0 +1,10 @@
+/home/mp4d/ros2_ws/build/image_processor/CMakeFiles/install/strip.dir
+/home/mp4d/ros2_ws/build/image_processor/CMakeFiles/install/local.dir
+/home/mp4d/ros2_ws/build/image_processor/CMakeFiles/install.dir
+/home/mp4d/ros2_ws/build/image_processor/CMakeFiles/list_install_components.dir
+/home/mp4d/ros2_ws/build/image_processor/CMakeFiles/rebuild_cache.dir
+/home/mp4d/ros2_ws/build/image_processor/CMakeFiles/edit_cache.dir
+/home/mp4d/ros2_ws/build/image_processor/CMakeFiles/test.dir
+/home/mp4d/ros2_ws/build/image_processor/CMakeFiles/image_processor_node.dir
+/home/mp4d/ros2_ws/build/image_processor/CMakeFiles/image_processor_uninstall.dir
+/home/mp4d/ros2_ws/build/image_processor/CMakeFiles/uninstall.dir

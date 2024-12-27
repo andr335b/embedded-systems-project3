@@ -1,0 +1,16 @@
+[0.234s] Invoking command in '/home/mp4d/ros2_ws/build/image_processor': /usr/bin/cmake --build /home/mp4d/ros2_ws/build/image_processor -- -j4 -l4
+[2.112s] [35m[1mScanning dependencies of target image_processor_node[0m
+[2.494s] [ 50%] [32mBuilding CXX object CMakeFiles/image_processor_node.dir/src/image_processor_node.cpp.o[0m
+[30.204s] [01m[K/home/mp4d/ros2_ws/src/image_processor/src/image_processor_node.cpp:[m[K In member function ‘[01m[Kvoid ImageProcessorNode::process_image(const cv::Mat&)[m[K’:
+[30.206s] [01m[K/home/mp4d/ros2_ws/src/image_processor/src/image_processor_node.cpp:196:41:[m[K [01;31m[Kerror: [m[K‘[01m[Kbresized_img[m[K’ was not declared in this scope; did you mean ‘[01m[Kresized_img[m[K’?
+[30.207s]   196 |             normalized_img[i * 10 + j] =[01;31m[Kbresized_img[m[K.at<uint8_t>(i, j) / 255.0f;
+[30.207s]       |                                         [01;31m[K^~~~~~~~~~~~[m[K
+[30.208s]       |                                         [32m[Kresized_img[m[K
+[30.209s] [01m[K/home/mp4d/ros2_ws/src/image_processor/src/image_processor_node.cpp:196:64:[m[K [01;31m[Kerror: [m[Kexpected primary-expression before ‘[01m[K>[m[K’ token
+[30.209s]   196 |  normalized_img[i * 10 + j] =bresized_img.at<uint8_t[01;31m[K>[m[K(i, j) / 255.0f;
+[30.210s]       |                                                     [01;31m[K^[m[K
+[30.210s] 
+[49.741s] make[2]: *** [CMakeFiles/image_processor_node.dir/build.make:63: CMakeFiles/image_processor_node.dir/src/image_processor_node.cpp.o] Error 1
+[49.744s] make[1]: *** [CMakeFiles/Makefile2:78: CMakeFiles/image_processor_node.dir/all] Error 2
+[49.747s] make: *** [Makefile:141: all] Error 2
+[49.758s] Invoked command in '/home/mp4d/ros2_ws/build/image_processor' returned '2': /usr/bin/cmake --build /home/mp4d/ros2_ws/build/image_processor -- -j4 -l4

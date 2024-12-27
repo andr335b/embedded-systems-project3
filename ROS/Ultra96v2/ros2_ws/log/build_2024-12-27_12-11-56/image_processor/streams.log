@@ -1,0 +1,14 @@
+[0.131s] Invoking command in '/home/mp4d/ros2_ws/build/image_processor': /usr/bin/cmake --build /home/mp4d/ros2_ws/build/image_processor -- -j4 -l4
+[0.558s] [35m[1mScanning dependencies of target image_processor_node[0m
+[0.851s] [ 50%] [32mBuilding CXX object CMakeFiles/image_processor_node.dir/src/image_processor_node.cpp.o[0m
+[25.024s] [01m[K/home/mp4d/ros2_ws/src/image_processor/src/image_processor_node.cpp:[m[K In member function ‘[01m[Kvoid ImageProcessorNode::process_image(const cv::Mat&)[m[K’:
+[25.025s] [01m[K/home/mp4d/ros2_ws/src/image_processor/src/image_processor_node.cpp:208:29:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[K}[m[K’ token
+[25.026s]   208 |         processed_value = 21
+[25.027s]       |                             [01;31m[K^[m[K
+[25.028s]       |                             [32m[K;[m[K
+[25.028s]   209 |     [32m[K}[m[K
+[25.029s]       |     [32m[K~[m[K                        
+[42.449s] make[2]: *** [CMakeFiles/image_processor_node.dir/build.make:63: CMakeFiles/image_processor_node.dir/src/image_processor_node.cpp.o] Error 1
+[42.452s] make[1]: *** [CMakeFiles/Makefile2:78: CMakeFiles/image_processor_node.dir/all] Error 2
+[42.462s] make: *** [Makefile:141: all] Error 2
+[42.475s] Invoked command in '/home/mp4d/ros2_ws/build/image_processor' returned '2': /usr/bin/cmake --build /home/mp4d/ros2_ws/build/image_processor -- -j4 -l4

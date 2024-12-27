@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>image_processor</name>
+  <version>0.0.1</version>
+  <description>Image Processor Node for ROS2</description>
+  <maintainer email="andreas.hjorth.alifrangis@gmail.com">mp4d</maintainer>
+  <license>Apache-2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <depend>rclcpp</depend>
+  <depend>sensor_msgs</depend>
+  <depend>cv_bridge</depend>
+
+  <test_depend>ament_lint_auto</test_depend>
+  <test_depend>ament_cmake_pytest</test_depend>
+</package>

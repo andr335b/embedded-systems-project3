@@ -1,0 +1,6 @@
+Invoking command in '/home/mp4d/ros2_ws/build/image_processor': /usr/bin/cmake /home/mp4d/ros2_ws/src/image_processor -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/mp4d/ros2_ws/install/image_processor
+Invoked command in '/home/mp4d/ros2_ws/build/image_processor' returned '0': /usr/bin/cmake /home/mp4d/ros2_ws/src/image_processor -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/mp4d/ros2_ws/install/image_processor
+Invoking command in '/home/mp4d/ros2_ws/build/image_processor': /usr/bin/cmake --build /home/mp4d/ros2_ws/build/image_processor -- -j4 -l4
+Invoked command in '/home/mp4d/ros2_ws/build/image_processor' returned '0': /usr/bin/cmake --build /home/mp4d/ros2_ws/build/image_processor -- -j4 -l4
+Invoking command in '/home/mp4d/ros2_ws/build/image_processor': /usr/bin/cmake --install /home/mp4d/ros2_ws/build/image_processor
+Invoked command in '/home/mp4d/ros2_ws/build/image_processor' returned '0': /usr/bin/cmake --install /home/mp4d/ros2_ws/build/image_processor
